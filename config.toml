@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "FEWD"
+theme = "hugo-theme-learn"
+
+# Search functionality
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+themeVariant = "blue"
